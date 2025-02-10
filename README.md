@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Ishaan Bisht</h1>
 <h3 align="center">A self-taught game developer from India</h3>
 
-- 🔭 I’m currently working on **Minecraft clone**
+<h3>On Going Projects :</h3>
+- I’m currently working on **Minecraft clone**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
