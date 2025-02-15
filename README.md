@@ -1,4 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=AAFFFD00&center=true&vCenter=true&width=1080&lines=I+love+Open+Source)](https://git.io/typing-svg)
+
 <img align="right" src="https://komarev.com/ghpvc/?username=ishaan-bisht" alt="hiyouga" />
+
 
 # About Me:
 I’m a versatile programmer with a passion for game development, web development, and open-source contributions. My journey in programming began with a fascination for how games are made, and over time, I’ve expanded my skills to include building modern web applications and contributing to the global developer community.
@@ -22,6 +25,7 @@ I’m always open to new opportunities, collaborations, or just a friendly chat 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Diablo__?theme=dark&font=Ubuntu&ext=contest)
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=ishaanbisht03&theme=city_lights&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/ishaanbisht03)
+
 
 ---
 
