@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=AAFFFD00&center=true&vCenter=true&width=1080&lines=I+love+Open+Source)](https://git.io/typing-svg)
 
-<img align="right" src="https://komarev.com/ghpvc/?username=ishaan-bisht" alt="hiyouga" />
+<img align="right" src="https://komarev.com/ghpvc/?username=ishaan-bisht&style=for-the-badge&abbreviated=true&color=blueviolet" alt="hiyouga" />
 
 # 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=60&pause=10000&color=FFFFFF&background=FF8E0000&vCenter=true&random=true&width=1080&height=80&lines=about+myself)](https://git.io/typing-svg)
