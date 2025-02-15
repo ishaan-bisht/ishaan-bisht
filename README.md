@@ -1,7 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=AAFFFD00&center=true&vCenter=true&width=1080&lines=I+love+Open+Source)](https://git.io/typing-svg)
 
 <img align="right" src="https://komarev.com/ghpvc/?username=ishaan-bisht" alt="hiyouga" />
+<svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="50" font-family="monospace" font-size="24" fill="white">
+    <animate attributeName="opacity" values="0;1" dur="1s" repeatCount="1" />
+    <animate attributeName="x" from="0" to="100%" dur="5s" repeatCount="1" />
+    Hello, World!
+  </text>
+</svg>
 
+![Dynamic Text](https://img.shields.io/badge/Hello-World-blue)
 
 # About Me:
 I’m a versatile programmer with a passion for game development, web development, and open-source contributions. My journey in programming began with a fascination for how games are made, and over time, I’ve expanded my skills to include building modern web applications and contributing to the global developer community.
