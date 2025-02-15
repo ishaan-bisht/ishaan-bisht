@@ -21,6 +21,8 @@ I’m always open to new opportunities, collaborations, or just a friendly chat 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Diablo__?theme=dark&font=Ubuntu&ext=contest)
 
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=ishaanbisht03&theme=city_lights&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/ishaanbisht03)
+
 ---
 
 
