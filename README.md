@@ -1,9 +1,13 @@
 # 💫 About Me:
-Minecraft Clone<br>
+I’m a versatile programmer with a passion for game development, web development, and open-source contributions. My journey in programming began with a fascination for how games are made, and over time, I’ve expanded my skills to include building modern web applications and contributing to the global developer community.
+
 
 
 ## 🌐 Socials:
+I’m always open to new opportunities, collaborations, or just a friendly chat about game development, web development, C++, or open source. Feel free to reach out—I’d love to hear from you!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishaan-bisht-black-emperor/) 
+
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
