@@ -1,6 +1,7 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=ishaan-bisht" alt="hiyouga" />
+
 # About Me:
 I’m a versatile programmer with a passion for game development, web development, and open-source contributions. My journey in programming began with a fascination for how games are made, and over time, I’ve expanded my skills to include building modern web applications and contributing to the global developer community.
-
 
 
 # Socials:
