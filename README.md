@@ -3,11 +3,11 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=ishaan-bisht" alt="hiyouga" />
 
 # 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=60&pause=1000&color=FFFFFF&background=FF8E0000&vCenter=true&repeat=false&random=true&width=1080&height=80&lines=about+myself)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=60&pause=10000&color=FFFFFF&background=FF8E0000&vCenter=true&random=true&width=1080&height=80&lines=about+myself)](https://git.io/typing-svg)
 I’m a versatile programmer with a passion for game development, web development, and open-source contributions. My journey in programming began with a fascination for how games are made, and over time, I’ve expanded my skills to include building modern web applications and contributing to the global developer community.
 #
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=60&pause=1000&color=FFFFFF&background=FF8E0000&vCenter=true&repeat=false&random=true&width=1080&height=80&lines=How+to+reach+me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=60&pause=10000&color=FFFFFF&background=FF8E0000&vCenter=true&random=true&width=1080&height=80&lines=how+to+reach+me)](https://git.io/typing-svg)
 I’m always open to new opportunities, collaborations, or just a friendly chat about game development, web development, C++, or open source. Feel free to reach out—I’d love to hear from you!
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="40" height="40">](https://www.linkedin.com/in/ishaan-bisht-black-emperor/)
