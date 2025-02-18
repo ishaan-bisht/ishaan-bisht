@@ -20,9 +20,9 @@ I’m always open to new opportunities, collaborations, or just a friendly chat 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=60&pause=10000&color=FFFFFF&background=FF8E0000&vCenter=true&random=true&width=1080&height=80&lines=stats)](https://git.io/typing-svg)
 ![](https://github-readme-stats.vercel.app/api?username=ishaan-bisht&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ishaan-bisht&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaan-bisht&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=ishaan-bisht&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Diablo__?theme=dark&font=Ubuntu&ext=contest)
 
